@@ -25,3 +25,5 @@ Digital Assignment -2
 *	Stemming
 *	Lemmatization
 *	Part of speech tagger
+
+PLEASE OPEN THE 19BCE1873_CSE4022_DA1&2.ipynb FILE TO VIEW THE SOLUTION TO BOTH THE ASSIGNMENTS.
